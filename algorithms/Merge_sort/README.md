@@ -15,13 +15,13 @@ Merge sort is an efficient, general-purpose, comparison-based sorting algorithm.
 
 ```
 8
-90 45 34 12 56 67 89 1
+98 45 34 12 56 67 89 1
 ```
 
 ### Sample Output
 
 ```
-1 12 34 45 56 67 89 90
+1 12 34 45 56 67 89 98
 ```
 
 ### Implemented in:
